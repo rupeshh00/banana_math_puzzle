@@ -1,0 +1,92 @@
+{
+    "test_user": {
+        "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+        "profile": {
+            "username": "test_user",
+            "display_name": "Test User",
+            "high_score": 0,
+            "games_played": 0,
+            "achievements": {
+                "first_win": false,
+                "level_5": false,
+                "perfect_score": false,
+                "speed_solver": false
+            },
+            "current_level": 1
+        }
+    },
+    "rupeshh": {
+        "password": "d46b1d9c48f25f1de385248f4bc63579a8d79c5d8755f7811f3524ebf62779e3",
+        "profile": {
+            "username": "rupeshh",
+            "display_name": "rupeshh",
+            "high_score": 0,
+            "games_played": 0,
+            "achievements": {
+                "first_win": false,
+                "level_5": false,
+                "perfect_score": false,
+                "speed_solver": false
+            },
+            "current_level": 1
+        },
+        "login_attempts": 0,
+        "last_failed_attempt": 0
+    },
+    "rupeshhh": {
+        "password": "d46b1d9c48f25f1de385248f4bc63579a8d79c5d8755f7811f3524ebf62779e3",
+        "profile": {
+            "username": "rupeshhh",
+            "display_name": "rupeshhh",
+            "high_score": 0,
+            "games_played": 0,
+            "achievements": {
+                "first_win": false,
+                "level_5": false,
+                "perfect_score": false,
+                "speed_solver": false
+            },
+            "current_level": 1
+        }
+    },
+    "rupesh": {
+        "user_id": "2f87c3b1-0f5e-4448-9352-be50a2421867",
+        "username": "rupesh",
+        "password": "$2b$12$utVX3U7ZOKQFFsZz5MNhcubOpCMj2CDiAW1k28LquPsRQbWZlnpo2",
+        "email": null,
+        "created_at": 1733404771.709058,
+        "last_login": 1733406967.100495,
+        "login_attempts": 0,
+        "locked_until": null
+    },
+    "rupeshh8": {
+        "user_id": "797399cf-0d9f-4a21-9074-94632aaf73ab",
+        "username": "rupeshh8",
+        "password": "$2b$12$/BP0ds6w5ONdU3yLrskkP.scNAaCx4D2XieB7IQozHDWj0TT2tj/G",
+        "email": null,
+        "created_at": 1733405915.949206,
+        "last_login": null,
+        "login_attempts": 0,
+        "locked_until": null
+    },
+    "rupesh8": {
+        "user_id": "c4db4809-f9ad-43e2-acc1-069052fc5694",
+        "username": "rupesh8",
+        "password": "$2b$12$THlKfEZXy0e6RDojQYw6B.1.DOEc5Fhs0ZRaiyLDhCCFlp1FGa5jy",
+        "email": null,
+        "created_at": 1733406069.335949,
+        "last_login": null,
+        "login_attempts": 0,
+        "locked_until": null
+    },
+    "rupesh88": {
+        "user_id": "d4a96073-a9df-4a06-a07d-db0065144aa2",
+        "username": "rupesh88",
+        "password": "$2b$12$O93mGYm9xZDnlq907saB3u/qZG/5xqsM4l8pg5z41xg7MORy3PK..",
+        "email": null,
+        "created_at": 1733406977.474577,
+        "last_login": 1733407828.08687,
+        "login_attempts": 0,
+        "locked_until": null
+    }
+}

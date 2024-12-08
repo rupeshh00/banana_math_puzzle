@@ -1,0 +1,21 @@
+# Presentation Dependencies
+
+# Slide Generation
+kivy==2.2.1
+networkx==3.2.1
+matplotlib==3.8.2
+
+# Asset Generation
+Pillow==10.1.0
+
+# Video Recording
+ffmpeg-python==0.2.0
+
+# Optional: Screen Interaction
+python-xdotool==0.3.0
+
+# Visualization
+numpy==1.26.2
+
+# Presentation Tools
+rich==13.7.0  # Enhanced console output

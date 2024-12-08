@@ -1,0 +1,25 @@
+{
+    "diagram_settings": {
+        "layout_algorithms": ["spring", "circular"],
+        "color_schemes": {
+            "primary": ["#3498db", "#2ecc71", "#e74c3c"],
+            "secondary": ["#f39c12", "#9b59b6", "#1abc9c"]
+        }
+    },
+    "storytelling_config": {
+        "stages": [
+            {"name": "Player Login", "color": "#FFA500"},
+            {"name": "Puzzle Generation", "color": "#4CAF50"},
+            {"name": "Interactive Solving", "color": "#2196F3"},
+            {"name": "Real-time Feedback", "color": "#FF5722"},
+            {"name": "Achievement Unlock", "color": "#9C27B0"},
+            {"name": "Progress Tracking", "color": "#795548"}
+        ]
+    },
+    "visual_theme": {
+        "background_color": "#F5F5F5",
+        "font_family": "Arial",
+        "title_font_size": 16,
+        "subtitle_font_size": 12
+    }
+}

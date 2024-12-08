@@ -1,0 +1,74 @@
+{
+    "game_settings": {
+        "initial_level": 1,
+        "max_level": 10,
+        "initial_hints": 3,
+        "max_hints": 5,
+        "score_increment": 10,
+        "score_decrement": 5
+    },
+    "difficulty": {
+        "min_level": 1,
+        "max_level": 10,
+        "learning_rate": 0.5
+    },
+    "difficulty_scaling": {
+        "level_1": {
+            "operations": ["+", "-"],
+            "number_range": {
+                "min": 1,
+                "max": 10
+            },
+            "time_limit": 30,
+            "score_multiplier": 1.0
+        },
+        "level_2": {
+            "operations": ["+", "-", "*"],
+            "number_range": {
+                "min": 1,
+                "max": 20
+            },
+            "time_limit": 25,
+            "score_multiplier": 1.5
+        },
+        "level_3": {
+            "operations": ["+", "-", "*", "/"],
+            "number_range": {
+                "min": 1,
+                "max": 50
+            },
+            "time_limit": 20,
+            "score_multiplier": 2.0
+        }
+    },
+    "ui_settings": {
+        "theme": {
+            "light": {
+                "primary_color": "#FFA500",
+                "secondary_color": "#FFD700",
+                "text_color": "#333333"
+            },
+            "dark": {
+                "primary_color": "#FF6347",
+                "secondary_color": "#FF4500",
+                "text_color": "#FFFFFF"
+            }
+        },
+        "fonts": {
+            "heading": {
+                "name": "Roboto",
+                "size": 24,
+                "weight": "bold"
+            },
+            "body": {
+                "name": "Roboto",
+                "size": 16,
+                "weight": "regular"
+            }
+        }
+    },
+    "performance": {
+        "puzzle_cache_size": 50,
+        "random_seed": null
+    }
+}
