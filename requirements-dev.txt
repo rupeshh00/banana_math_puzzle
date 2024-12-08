@@ -1,0 +1,20 @@
+# Development Dependencies
+black==23.12.1          # Code formatting
+mypy==1.8.0             # Static type checking
+pytest==8.0.2           # Testing framework
+pytest-cov==4.1.0       # Test coverage
+pylint==3.0.3           # Code linting
+flake8==7.0.0           # Style guide enforcement
+isort==5.13.2           # Import sorting
+pre-commit==3.6.2       # Git hooks for code quality
+
+# Documentation
+sphinx==7.2.6           # Documentation generator
+sphinx-rtd-theme==2.0.0 # Read the Docs theme
+
+# Debugging and Profiling
+ipdb==0.13.13           # Enhanced debugger
+memory-profiler==0.61.0 # Memory usage tracking
+
+# Performance Testing
+locust==2.25.1          # Load testing
